@@ -1,7 +1,7 @@
 # Sound and Vision: How can auditory displays support supervision of automated driving?
-#### Authors: Canmanie T. Ponnambalam, Rins de Zwart & Reinier J. Jansen
+### Authors: Canmanie T. Ponnambalam, Rins de Zwart & Reinier J. Jansen
 
-#### Supplemental material accompanying oral presentation at the 2023 Human Factors and Ergonomics Society Europe Chapter Annual Meeting
+Supplemental material accompanying oral presentation at the 2023 Human Factors and Ergonomics Society Europe Chapter Annual Meeting
 
 ### Description of sound files
 Created by: Reinier J. Jansen
